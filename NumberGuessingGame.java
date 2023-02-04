@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class NumberGuessingGame {
         // Function that implements the
         // number guessing game
         public static void
